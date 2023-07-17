@@ -1,2 +1,2 @@
 # Heartbeat
-Heartbeat system to monitor important servers
+Node app Heartbeat system to monitor important servers
